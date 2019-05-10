@@ -1,5 +1,11 @@
 # My Python Lab
 
-The works for Python.
+## The works for Python.
 
-Sin miedo a nada.
+Include:
+
+Weekly Homework
+
+Midterm Project
+
+Final Project
