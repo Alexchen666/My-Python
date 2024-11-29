@@ -1,6 +1,6 @@
 # My Python Lab
 
-## The works for Python.
+## The works of Python.
 
 Include:
 
